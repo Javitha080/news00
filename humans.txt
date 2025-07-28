@@ -1,0 +1,26 @@
+/* TEAM */
+
+Developer: Lovable
+Contact: dev@lovable.dev
+Twitter: @lovable_dev
+From: Sri Lanka
+
+Designer: Lovable Design Team
+Contact: design@lovable.dev
+Twitter: @lovable_design
+From: Sri Lanka
+
+Content Manager: Homagama Maha Vidyalaya
+Contact: info@homagamamv.edu.lk
+Twitter: @homagamamv
+From: Homagama, Sri Lanka
+
+/* SITE */
+
+Last update: 2023/11/15
+Language: English, Sinhala
+Doctype: HTML5
+Standards: HTML5, CSS3, ES6
+Components: React, Vite, Tailwind CSS, Shadcn UI
+IDE: Visual Studio Code
+Hosting: Vercel

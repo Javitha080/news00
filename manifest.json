@@ -1,0 +1,50 @@
+{
+  "name": "Homagama Maha Vidyalaya - News & Events",
+  "short_name": "HMV News",
+  "description": "Stay updated with the latest news, events, and achievements from Homagama Maha Vidyalaya.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1e40af",
+  "icons": [
+    {
+      "src": "https://ik.imagekit.io/5fpzilm1y/logo.png?updatedAt=1747557297487",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Latest News",
+      "short_name": "News",
+      "description": "View the latest news",
+      "url": "/news",
+      "icons": [{ "src": "https://ik.imagekit.io/5fpzilm1y/logo.png?updatedAt=1747557297487", "sizes": "192x192" }]
+    },
+    {
+      "name": "Upcoming Events",
+      "short_name": "Events",
+      "description": "View upcoming events",
+      "url": "/events",
+      "icons": [{ "src": "https://ik.imagekit.io/5fpzilm1y/logo.png?updatedAt=1747557297487", "sizes": "192x192" }]
+    }
+  ],
+  "related_applications": [],
+  "prefer_related_applications": false,
+  "categories": ["education", "news"],
+  "screenshots": [
+    {
+      "src": "https://ik.imagekit.io/5fpzilm1y/logo.png?updatedAt=1747557297487",
+      "sizes": "1280x720",
+      "type": "image/png"
+    },
+    {
+      "src": "https://ik.imagekit.io/5fpzilm1y/logo.png?updatedAt=1747557297487",
+      "sizes": "1280x720",
+      "type": "image/png"
+    }
+  ],
+  "orientation": "portrait-primary",
+  "lang": "en-US"
+}
